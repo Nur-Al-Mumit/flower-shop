@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first-section {
+    margin-top: 0;
+    padding: 50px 100px  0 100px;
+    background-color: #e5547331;
+    display: flex;
+    row-gap: 50px;
+    column-gap: 100px;
+    align-items: center;
+
+}
+
+.top-heading {
+    margin-top: 0;
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+
+}
+
+.top-descripsion {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.base-btn {
+    background-color: #E55473;
+    padding: 10px 15px;
+    border: 0;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    color: #FFF;
+    font-size: 20px;
+}
+
+.top-content-container {
+    width: 60%;
+}
+
+.top-flower-container {
+    width: 40%;
+}
+
+.top-flower {
+    width: 100%;
+
+}
